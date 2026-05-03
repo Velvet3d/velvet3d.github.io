@@ -1,4 +1,4 @@
-/* /Components/SceneCodePanel.razor.rz.scp.css */
+/* ./Components/SceneCodePanel.razor.rz.scp.css */
 .scene-code-panel[b-xk8nivqpmi] {
     position: absolute;
     top: 24px;
@@ -127,7 +127,7 @@
         width: min(var(--scene-code-width), calc(100vw - 24px));
     }
 }
-/* /Components/SceneCodeViewer.razor.rz.scp.css */
+/* ./Components/SceneCodeViewer.razor.rz.scp.css */
 .scene-code-panel[b-mkhv9lz0xo] {
     position: absolute;
     left: 24px;
@@ -308,7 +308,7 @@
         bottom: 62px;
     }
 }
-/* /Layout/MainLayout.razor.rz.scp.css */
+/* ./Layout/MainLayout.razor.rz.scp.css */
 .page[b-mmita9r9my] {
     position: relative;
     display: flex;
@@ -381,7 +381,7 @@ main[b-mmita9r9my] {
         overflow-y: auto;
     }
 }
-/* /Layout/NavMenu.razor.rz.scp.css */
+/* ./Layout/NavMenu.razor.rz.scp.css */
 /* Sidebar Header */
 .sidebar-header[b-ldaf812pia] {
     padding: 20px 15px;
@@ -532,7 +532,7 @@ main[b-mmita9r9my] {
 .examples-container[b-ldaf812pia]::-webkit-scrollbar-thumb:hover {
     background: rgba(138, 43, 226, 0.6);
 }
-/* /Pages/CustomMaterialDemo.razor.rz.scp.css */
+/* ./Pages/CustomMaterialDemo.razor.rz.scp.css */
 .custom-material-page[b-dbap0r9zo4] {
     position: relative;
     width: 100%;
@@ -662,7 +662,7 @@ main[b-mmita9r9my] {
 .debug-panel[b-dbap0r9zo4]::-webkit-scrollbar-thumb:hover {
     background: rgba(120, 81, 255, 0.6);
 }
-/* /Pages/MaterialDemo.razor.rz.scp.css */
+/* ./Pages/MaterialDemo.razor.rz.scp.css */
 .material-demo-page[b-ay6o9ve1vf] {
     position: relative;
     width: 100%;
@@ -820,7 +820,7 @@ main[b-mmita9r9my] {
 .debug-panel[b-ay6o9ve1vf]::-webkit-scrollbar-thumb:hover {
     background: rgba(255, 255, 255, 0.3);
 }
-/* /Pages/Scene04.razor.rz.scp.css */
+/* ./Pages/Scene04.razor.rz.scp.css */
 .scene04-page[b-ahi3lf34im] {
     position: relative;
     height: 100%;
@@ -837,7 +837,7 @@ main[b-mmita9r9my] {
     background: #000;
     cursor: grab;
 }
-/* /Pages/Scene05.razor.rz.scp.css */
+/* ./Pages/Scene05.razor.rz.scp.css */
 .scene05-page[b-xg7ahmd6n7] {
     height: 100%;
     width: 100%;
@@ -852,7 +852,7 @@ main[b-mmita9r9my] {
     background: #000;
     cursor: grab;
 }
-/* /Pages/Scene06.razor.rz.scp.css */
+/* ./Pages/Scene06.razor.rz.scp.css */
 .scene06-page[b-a7fkq98r18] {
     position: relative;
     display: flex;
@@ -873,7 +873,7 @@ main[b-mmita9r9my] {
     outline: none;
     background: #1a1a1a;
 }
-/* /Pages/Scene2.razor.rz.scp.css */
+/* ./Pages/Scene2.razor.rz.scp.css */
 .scene2-root[b-pxmu7np64x] {
     position: relative;
     width: 100%;
@@ -1008,7 +1008,7 @@ main[b-mmita9r9my] {
         padding: 0.75rem 0.85rem;
     }
 }
-/* /Pages/Scene3.razor.rz.scp.css */
+/* ./Pages/Scene3.razor.rz.scp.css */
 .scene3-page[b-im6gqk41y7] {
     height: 100%;
     width: 100%;
